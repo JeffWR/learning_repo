@@ -25,3 +25,5 @@ Summary: Learning and testing the GitHub repository
    - 5. "git diff (branch name)" shows the differences between the branch and main
    - 6. "git pull" to get the file from GitHub
    - 7. "git branch -d (branch name)" to delete the branch    
+* Merrge conflect happened in development
+   
