@@ -11,7 +11,7 @@ Summary: Learning and testing the GitHub repository
    - 2. "cd (file name)" to jump into the file
    - 3. "ls -la" to uncover hiden files and documents
    - 4. "git status" to see the changes
-   - 5. "git add ./(file name)" top track the file
+   - 5. "git add ./(file name)" to track the file
    - 6. "git commit -m "(massage)" -m "masssage" ..." to commit the changes localy
    - 7. "git push" to push the new files and changes to GitHub
 
