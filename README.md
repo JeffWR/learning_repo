@@ -30,3 +30,4 @@ Summary: Learning and testing the GitHub repository
 
 ## Other Commands
    - 1. "git reset" will undo the last step
+   - 2. "git reset HEAD" will undo the last commit
