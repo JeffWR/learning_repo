@@ -21,5 +21,5 @@ Summary: Learning and testing the GitHub repository
    - 1. "git branch" shows the branch numbers you have
    - 2. "git checkout -b (name)" allows you to create a new branch 
    - 3. "git checkout (branch name)" switch to the branch
-   - 4. "git push -u origin (branch name)" to setup a branch in GitHub
+   - 4. "git push -u origin (branch name)" to create a Pull Request (PR) in GitHub
    - 5. "git diff (branch name)" shows the differences between the branch and main     
