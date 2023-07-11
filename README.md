@@ -19,3 +19,4 @@ Summary: Learning and testing the GitHub repository
 - Stared and highlighted branch is the branch you are on
    - 1. "git branch" shows the branch numbers you have
    - 2. "git checkout -b (name)" allows you to create a new branch 
+   - 3. "git checkout (branch name)" switch to the branch
