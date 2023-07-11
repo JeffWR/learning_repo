@@ -5,6 +5,7 @@ Summary: Learning and testing the GitHub repository
    - Save a ".md" file as the text overview of the project or plan of the project
 
 ## Terminal
+- "q" to get out of locked situation
    - * "clear" to clean the terminal
    - 1. "git clone (HTTPS)" to clone the project to your computer
    - 2. "cd (file name)" to jump into the file
