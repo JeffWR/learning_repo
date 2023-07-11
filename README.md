@@ -5,7 +5,11 @@ Summary: Learning and testing the GitHub repository
    - Save a ".md" file as the text overview of the project or plan of the project
 
 ## Terminal
+   - * "clear" to clean the terminal
    - 1. "git clone (HTTPS)" to clone the project to your computer
    - 2. "cd (file name)" to jump into the file
    - 3. "ls -la" to uncover hiden files and documents
-   
+   - 4. "git status" to see the changes
+   - 5. "git add ./(file name)" top track the file
+   - 6. "git commit -m "(massage)" -m "masssage" ..." to commit the changes localy
+   - 7. "git push" to push the new files and changes to GitHub
