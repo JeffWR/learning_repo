@@ -27,3 +27,6 @@ Summary: Learning and testing the GitHub repository
    - 7. "git branch -d (branch name)" to delete the branch    
 - "git commit -am "massage" " for modified files
 * Merrge conflect happened in developmen
+
+## Other Commands
+   - 1. "git reset" will undo the last step
