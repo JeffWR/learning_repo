@@ -1,6 +1,7 @@
 #include <iostream>
-using namespace std;
+int n;
 int main (){
-    cout << "Hello World!!!" << endl;
+    std::cin >> n;
+    std::cout << "Hello World!!!" << std::endl;
     return 0;
 }
