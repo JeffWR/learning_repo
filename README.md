@@ -13,3 +13,9 @@ Summary: Learning and testing the GitHub repository
    - 5. "git add ./(file name)" top track the file
    - 6. "git commit -m "(massage)" -m "masssage" ..." to commit the changes localy
    - 7. "git push" to push the new files and changes to GitHub
+
+## Branch
+- Main is thhe main or master branch
+- Stared and highlighted branch is the branch you are on
+   - 1. "git branch" shows the branch numbers you have
+   - 2. "git checkout -b (name)" allows you to create a new branch 
